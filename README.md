@@ -1,6 +1,7 @@
 # RearBullbar
 
 [![](https://img.shields.io/github/downloads/Jalopy-Mods/RearBullbar/total)](#)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A8OGPIQ)
 
 This mod adds a rear bullbar to the Laika! It attaches to the body, and can be bought in the Laika Dealership. It reduces the overall damage on impacts by 50%.
 
